@@ -1,0 +1,23 @@
+1.FAN1 ISO 800 - exposure 30 (s) - Cropped to 150x150
+2.FAN2 ISO 400 - exposure 30 (s) - Cropped to 332x332
+3.FAN3 ISO 200 - exposure 30 (s) - Cropped to 200x200
+4.28992 ISO 200 - exposure 30 (s) - Cropped to 200x200
+5.26872 ISO 800 - exposure 30 (s) - Cropped to 200x200
+6.27382 ISO 800 - exposure 30 (s) - Cropped to 200x200
+7.27441 ISO 1600 - exposure 30 (s) - Cropped to 200x200
+8.33761 ISO 1600 - exposure 30 (s) - Cropped to 200x200 - CA. 250x0.1 1.1 -2.9 
+9.33762 ISO 1600 - exposure 30 (s) - Cropped to 200x200 - CA. 250x0.1 1.1 -2
+10.33763 ISO 400 - exposure 30 (s) - Cropped to 200x200 - CA. 250x0.1 1.1 -2
+11.33764 ISO 100 - exposure 30 (s) - Cropped to 200x200 - CA. 100x0.1 1.1 -2
+12.33765 ISO 100 - exposure 5 (s) - Cropped to 200x200 -  CA. 100x0.1 1.1 -2 5s
+13.33766 ISO 100 - exposure 5 (s) - Cropped to 200x200 -  CA. 100x0.1 1.1 -2.9 5s
+14.33767 ISO 800 - exposure 5 (s) - Cropped to 200x200 -  CA. 100x0.1 1.1 -2.9 5s
+15.33768 ISO 800 - exposure 5 (s) - Cropped to 200x200 -  CA. 100x0.1 1.1 -1.7 5s
+16.33769 ISO 1600 - exposure 30 (s) - Cropped to 200x200 - CA. 100x0.1 1.1 -1.7 30s
+17.337610 ISO 1600 - exposure 30 (s) - Cropped to 200x200 - CA. 100x0.1 1.1 -1.6 30s
+18.337611 ISO 1600 - exposure 30 (s) - Cropped to 200x200 - CA. 100x0.1 1.1 -1.7 30s
+19.337612 ISO 1600 - exposure 30 (s) - Cropped to 200x200 - CA. 100x0.1 1.1 -1.8 30s
+20.25337 ISO 1600 - exposure 30 (s) - Cropped to 200x200 -  CA. 10s 1.1 - -2.9
+21.253316 ISO 1600 - exposure 30 (s) - Cropped to 200x200 -  CA. 10s 1.1 - -2.9	
+22.30504 ISO 800 - exposure 30 (s) - Cropped to 200x200 - CA. 30x1 1.3 - -2.7
+
